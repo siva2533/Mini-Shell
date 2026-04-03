@@ -1,5 +1,5 @@
 # 🐚 Mini Shell
-A lightweight Unix shell implementation built from scratch in C that replicates core functionalities of a standard Bash shell — including command parsing, execution, piping, signal handling, and full job control.
+Mini Shell is a simplified yet functional Unix shell implementation developed from scratch in the C programming language. The project emulates the core behavior of a standard Bash shell, providing users with an interactive command-line interface capable of parsing, classifying, and executing both built-in and external Linux commands.
 ---
 ## ✨ Features
 | Feature | Description |
