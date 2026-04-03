@@ -37,7 +37,7 @@ typedef struct node
 extern node *head;
 
 extern char cmd[30];
-extern char *external_cmd[153];
+extern char *external_cmd[154];
 extern char *builtins[];
 extern char prompt[25];
 extern char input[100];

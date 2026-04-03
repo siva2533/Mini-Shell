@@ -18,6 +18,7 @@ chgrp
 chmod
 chown
 chvt
+clear
 cp
 cpio
 dash

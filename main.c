@@ -1,6 +1,6 @@
 #include "header.h"
 char cmd[30];
-char *external_cmd[153];
+char *external_cmd[154];
 char prompt[25] = "minishell$: ";
 char input[100];
 

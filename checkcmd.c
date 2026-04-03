@@ -39,7 +39,7 @@ void extract_external_commands(char **ext_cmd)
         return;
     }
 
-    for (int i = 0; i < 153; i++)
+    for (int i = 0; i < 154; i++)
     {
         char ch, arr[30];
         int n = 0;
